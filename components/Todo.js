@@ -49,7 +49,7 @@ const Todo = props => {
     }
 
     return (
-        <div className="ml-3 mr-3 grid grid-cols-8 ">
+        <div className="ml-3 mr-3 grid grid-cols-8  m-3">
 
             <input className="col-start-1 justify-self-center  self-center"
                 type="checkbox"
